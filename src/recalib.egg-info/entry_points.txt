@@ -1,2 +1,0 @@
-[console_scripts]
-recalib-calibrate = recalib.interactive_calibration:main
