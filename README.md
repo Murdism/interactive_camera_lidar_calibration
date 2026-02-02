@@ -1,4 +1,4 @@
-# interactive_camera_lidar_calibration
+# SensorCal - interactive_camera_lidar_calibration
 
 Python package scaffold for `sensorcal`.
 
